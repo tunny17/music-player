@@ -20,22 +20,82 @@ let curr_track = document.createElement('audio');
 
 let track_list = [
 {
+	name: "Acura Integurl",
+	artist: "Frank Ocean",
+	image: "/audio/Frank_Ocean_The_Lonny_Breaux_Collection-front-large.jpg",
+	path: "/audio/01 - Acura Integurl.mp3"
+},
+{
+	name: "Time Machine",
+	artist: "Frank Ocean",
+	image: "/audio/cover.jpg",
+	path: "/audio/59 - Time Machine [Prod Midi Mafia].mp3"
+},
+{
+	name: "Wake Up",
+	artist: "Frank Ocean",
+	image: "/audio/cover.jpg",
+	path: "/audio/63 - Wake Up [Prod Underdogs].mp3"
+},
+{
+	name: "Nikes",
+	artist: "Frank Ocean",
+	image: "/audio/cover.jpg",
+	path: "/audio/01. Nikes.mp3"
+},
+{
+	name: "Ivy",
+	artist: "Frank Ocean",
+	image: "/audio/cover.jpg",
+	path: "/audio/02. Ivy.mp3"
+},
+{
+	name: "Pink + White",
+	artist: "Frank Ocean",
+	image: "/audio/cover.jpg",
+	path: "/audio/03. Pink _ White (Ft. Beyonce).mp3"
+},
+{
+	name: "Be Yourself",
+	artist: "Frank Ocean",
+	image: "/audio/cover.jpg",
+	path: "/audio/04. Be Yourself.mp3"
+},
+{
+	name: "Self Control",
+	artist: "Frank Ocean",
+	image: "/audio/cover.jpg",
+	path: "/audio/07. Self Control.mp3"
+},
+{
 	name: "Nights",
 	artist: "Frank Ocean",
-	image: "Image URL",
-	path: "/audio/Frank-Ocean-Nights-starnaija.com_.mp3.mp3"
+	image: "/audio/cover.jpg",
+	path: "/audio/09. Nights.mp3"
 },
 {
-	name: "Switch",
-	artist: "6LACK",
-	image: "Image URL",
-	path: "/audio/08 Switch.m4a"
+	name: "White Ferrari",
+	artist: "Frank Ocean",
+	image: "/audio/cover.jpg",
+	path: "/audio/14. White Ferrari.mp3"
 },
 {
-	name: "Formular",
-	artist: "Labrinth",
-	image: "Image URL",
-	path: "/audio/02 Formula.mp3",
+	name: "Seigfried",
+	artist: "Frank Ocean",
+	image: "/audio/cover.jpg",
+	path: "/audio/15. Seigfried.mp3"
+},
+{
+	name: "Godspeed",
+	artist: "Frank Ocean",
+	image: "/audio/cover.jpg",
+	path: "/audio/16. Godspeed (Ft. Kim Burrell).mp3"
+},
+{
+	name: "Futura Free",
+	artist: "Frank Ocean",
+	image: "/audio/cover.jpg",
+	path: "/audio/17. Futura Free.mp3"
 },
 ];
 
